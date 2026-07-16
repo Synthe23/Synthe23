@@ -71,5 +71,59 @@ const omm = {
 
 </p>
 
+# 🚀 Featured Projects
+
+### 🍔 Food Delivery Microservices
+
+Complete backend built using
+
+- Node.js
+
+- JavaScript
+
+- Docker
+
+- RabbitMQ
+
+- MongoDB
+
+- JWT Authentication
+
+---
+
+### 🛡 KYC Verification Microservices
+
+Scalable backend architecture featuring
+
+- Authentication
+
+- Document Upload
+
+- Verification Workflow
+
+- Docker Compose
+
+- MongoDB
+
+---
+
+### 📚 More projects coming...
+
+Always building.
+
+Always improving.
+
+---
+
+# 🎯 2026 Goals
+
+- Master TypeScript
+
+- Learn Kubernetes
+
+- AWS Deployment
+
+- CI/CD Pipelines
+
 ---
 
