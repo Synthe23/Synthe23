@@ -78,15 +78,10 @@ const omm = {
 Complete backend built using
 
 - Node.js
-
 - JavaScript
-
 - Docker
-
 - RabbitMQ
-
 - MongoDB
-
 - JWT Authentication
 
 ---
@@ -96,13 +91,9 @@ Complete backend built using
 Scalable backend architecture featuring
 
 - Authentication
-
 - Document Upload
-
 - Verification Workflow
-
 - Docker Compose
-
 - MongoDB
 
 ---
@@ -118,11 +109,8 @@ Always improving.
 # 🎯 2026 Goals
 
 - Master TypeScript
-
 - Learn Kubernetes
-
 - AWS Deployment
-
 - CI/CD Pipelines
 
 ---
@@ -135,19 +123,19 @@ Always improving.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Synthe23">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/om-prakash-mishra-382002294/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mishraomm5000@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 
