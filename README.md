@@ -57,7 +57,17 @@ const omm = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Synthe23&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Synthe23&theme=algolia&row=2&column=4"/>
 
 </p>
 
