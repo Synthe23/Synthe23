@@ -126,8 +126,39 @@ Always improving.
 - CI/CD Pipelines
 
 ---
+
 # 💡 Philosophy
 
 > "Do the hardwork that your future self will thank you for."
 
+# 🤝 Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
 ---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
