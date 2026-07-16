@@ -6,4 +6,28 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
 
-</div>
+## </div>
+
+# 💫 About Me
+
+```typescript
+const omm = {
+  location: "India",
+
+  role: "Backend Developer",
+  languages: ["TypeScript", "JavaScript", "Java", "Python"],
+
+  frameworks: ["react"],
+
+  backend: ["Node.js", "Express", "REST APIs", "JWT", "Authentication"],
+
+  database: ["MongoDB", "PostgresSQL"],
+
+  devOps: ["Docker", "Git", "GitHub"],
+
+  currentlyLearning: ["System Design", "Kubernetes", "CI/CD", "AWS"],
+};
+```
+
+---
+
