@@ -35,7 +35,7 @@ const omm = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,postgres,docker,git,github,vscode,postman,npm,linux,java,react,tailwind,html,css,vite,rabbitmq,redis,kafka,python,pnpm,eclipse"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,postgres,docker,git,github,vscode,postman,npm,linux,java,react,tailwind,html,css,vite,rabbitmq,redis,kafka,python,pnpm,eclipse,prisma,mysql"/>
 
 </p>
 
@@ -61,6 +61,13 @@ const omm = {
 
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=github-compact" />
+</p>
 ---
 
 # 🏆 GitHub Trophies
