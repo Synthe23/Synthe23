@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Synthe23&style=for-the-badge&color=0e75b6"/>
 
-## </div>
+</div>
 
 # 💫 About Me
 
@@ -35,7 +35,7 @@ const omm = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,mysql,docker,git,github,vscode,postman,npm,linux,cpp,java,react,css,html,tailwindcss,rabbitmq,kafka,pnpm,mysql,prisma,vite,mysql,redis,eclipse,googlecloud"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,postgres,docker,git,github,vscode,postman,npm,linux,java,react,tailwind,html,css,vite,rabbitmq,redis,kafka,python,pnpm,eclipse"/>
 
 </p>
 
