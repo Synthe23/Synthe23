@@ -19,7 +19,7 @@ const omm = {
 
   languages: ["TypeScript", "JavaScript", "Java", "Python"],
 
-  frameworks: ["react"],
+  frameworks: ["react", "express"],
 
   backend: ["Node.js", "Express", "REST APIs", "JWT", "Authentication"],
 
