@@ -66,7 +66,7 @@ const omm = {
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=github-dark" />
 </p>
 ---
 
