@@ -126,4 +126,8 @@ Always improving.
 - CI/CD Pipelines
 
 ---
+# 💡 Philosophy
 
+> "Do the hardwork that your future self will thank you for."
+
+---
