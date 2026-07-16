@@ -12,9 +12,11 @@
 
 ```typescript
 const omm = {
+
   location: "India",
 
   role: "Backend Developer",
+
   languages: ["TypeScript", "JavaScript", "Java", "Python"],
 
   frameworks: ["react"],
