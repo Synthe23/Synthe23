@@ -31,3 +31,13 @@ const omm = {
 
 ---
 
+# ⚙ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,mongodb,mysql,docker,git,github,vscode,postman,npm,linux,cpp,java"/>
+
+</p>
+
+---
+
