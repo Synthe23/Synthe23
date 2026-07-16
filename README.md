@@ -103,16 +103,6 @@ Scalable backend architecture featuring
 - Docker Compose
 - MongoDB
 
----
-
-### 📚 More projects coming...
-
-Always building.
-
-Always improving.
-
----
-
 # 🎯 2026 Goals
 
 - Master TypeScript
@@ -142,9 +132,15 @@ Always improving.
 
 </a>
 
-<a href="mailto:mishraomm5000@gmail.com">
+<a href="mishraomm5000@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.instagram.com/ig_omm4295/?hl=en">
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
 
 </a>
 
