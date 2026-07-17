@@ -58,9 +58,10 @@ const omm = {
 # 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Synthe23&theme=github-dark&hide_border=true"/>
-
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Synthe23&theme=neon-dark&hide_border=true&border_radius=15"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -71,14 +72,6 @@ const omm = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=github-dark" />
 </p>
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Synthe23&theme=algolia&row=2&column=4"/>
-
-</p>
 
 # 🚀 Featured Projects
 
