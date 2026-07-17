@@ -52,7 +52,7 @@ const omm = {
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Synthe23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
