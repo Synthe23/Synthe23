@@ -10,13 +10,13 @@
 
 # About Me :)
 
-🚀 Backend developer passionate about building scalable systems and production-ready applications.
+🚀 FullStack developer passionate about building scalable systems and production-ready applications with georgeous looking UIs.
 
 ⚡ Currently diving deep into TypeScript, Microservices, System Design and Cloud Technologies.
 
 🎯 My goal is to become an engineer capable of designing and building systems that scale to millions of users.
 
-💡 I believe great software comes from simplicity, consistency and continuous learning.
+💡 I believe great software comes from consistency, continuous learning and sleepness nights with a cup of coffee.
 
 ```typescript
 const omm = {
