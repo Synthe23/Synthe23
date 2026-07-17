@@ -53,15 +53,13 @@ const omm = {
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Synthe23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=Synthe23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
 
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Synthe23&layout=compact&theme=tokyonight"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthe23&layout=compact&theme=tokyonight&count_private=true&langs_count=10"
        alt="Top Languages" />
-
 </p>
 
 ---
