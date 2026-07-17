@@ -10,9 +10,16 @@
 
 # About Me :)
 
+🚀 Backend developer passionate about building scalable systems and production-ready applications.
+
+⚡ Currently diving deep into TypeScript, Microservices, System Design and Cloud Technologies.
+
+🎯 My goal is to become an engineer capable of designing and building systems that scale to millions of users.
+
+💡 I believe great software comes from simplicity, consistency and continuous learning.
+
 ```typescript
 const omm = {
-
   location: "India",
 
   role: "Backend Developer",
@@ -69,7 +76,7 @@ const omm = {
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=github-dark" />
+  https://github-readme-activity-graph.vercel.app/graph?username=Synthe23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=00E7FF&point=FFFFFF
 </p>
 ---
 
