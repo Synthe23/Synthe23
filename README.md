@@ -20,21 +20,23 @@
 
 ```typescript
 const omm = {
+
   location: "India",
 
-  role: "Backend Developer",
+  role: "Fullstack Developer",
 
   languages: ["TypeScript", "JavaScript", "Java", "Python"],
 
   frameworks: ["react", "express"],
 
-  backend: ["Node.js", "Express", "REST APIs", "JWT", "Authentication"],
+  backend: ["Node.js", "Express", "REST APIs", "JWT"],
 
   database: ["MongoDB", "PostgresSQL"],
 
   devOps: ["Docker", "Git", "GitHub"],
 
   currentlyLearning: ["System Design", "Kubernetes", "CI/CD", "AWS"],
+
 };
 ```
 
