@@ -50,7 +50,7 @@ const omm = {
 
 ---
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <p>
   <img height="180em"
@@ -61,7 +61,7 @@ const omm = {
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Synthe23&layout=compact&theme=tokyonight&langs_count=10"
        alt="Top Languages" />
 
-</p>
+</p> -->
 
 ---
 
